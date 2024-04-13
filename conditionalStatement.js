@@ -152,3 +152,4 @@
 //         console.log("please enter the right Score")
 // }
 
+console.log("Git Added")
